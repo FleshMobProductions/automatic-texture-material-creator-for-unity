@@ -1,6 +1,6 @@
-# Texture Auto Material Creator
+# Automatic Texture Material Creator
 
-Editor Tool to auto create a set of materials for all textures inside a specific folder in an Unity project. Useful if a model from a 3d application was imported, but materials from it were not properly imported/created or are not Unity compatible. 
+Editor Tool to automatically create a set of materials for all textures inside a specific folder in an Unity project. Useful if a model from a 3d application was imported, but materials from it were not properly imported/created or are not Unity compatible. 
 
 ## How to Use
 
@@ -102,7 +102,3 @@ Opens a file dialogue to select the output folder path used to store the generat
 ### **Create Materials**
 
 Will generate the new materials and put them into the output folder if all parameters are valid. 
-
-
-
-
